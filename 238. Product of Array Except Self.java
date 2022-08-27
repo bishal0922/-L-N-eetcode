@@ -5,7 +5,7 @@ class Solution {
         //one possible way is to generate the total product of all the numbers in nums[] 
         //then returning the total product/nums[i] for every i in the return array
         
-        //other solution for O(n) time while minimizing memory resource is
+        //other solution for O(n) time while minimizing memory resource is as follows
         //An Example: 
         //Input: nums = [1,2,3,4]
         //Output: [24,12,8,6]
