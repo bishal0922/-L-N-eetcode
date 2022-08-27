@@ -25,7 +25,7 @@ class Solution {
             postfix *= nums[i];
         }
         //the above loop multiples the initial r={1,1,2,6} by {24,12,4,1} OR "postfix array"
-        //generating our desired output [24,12,8,6]
+        //thus generating our desired output [24,12,8,6]
         
         return r;
     }
