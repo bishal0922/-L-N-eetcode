@@ -39,11 +39,11 @@ class Solution {
                     triplet.add(nums[right]);
                     list.add(triplet);
                 
-                //make sure we skip the duplicates     
-                while (nums[left] == nums[left+1]){
+                //make sure we skip the duplicates while making sure left<right  
+                while (left<right && nums[left] == nums[left+1]){
                     left++;
                 }
-                while (nums[right] == nums[right-1]){
+                while (left<right && nums[right] == nums[right-1]){
                     right--;
                 }
                 /*It can be confusing to why we move the pointers again as in the while loop and the code segment below this comment
