@@ -24,7 +24,7 @@ class Solution {
         //if the node is null then there's no sum
         if (root == null) return false;
         
-        //if the node has no children then its a leaf, if the value within the end of the -()-()-()           is the solution then we accept (return true)
+        //if the node has no children then its a leaf, if the value within the end of the -()-()-() is the solution then we accept (return true)
         if (root.left == null && root.right == null && root.val == targetSum) return true;
         
         //if neither occurs then we move to next children and continue the recursive solution
