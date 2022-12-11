@@ -6,3 +6,7 @@ class Solution:
                 return True
             s.add(i)
         return False
+
+        # O(n) Time
+        # O(n) Space
+        # n is the size of the input List nums
