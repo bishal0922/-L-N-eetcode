@@ -4,4 +4,7 @@ All my solutions to leetcode problems I solve. The questions are from Neetcode.i
 </br>
 
 I also solve other questions 
-![leetcode.com/bishal0922](leetcode.com/bishal0922)
+
+</br>
+
+[leetcode.com/bishal0922](leetcode.com/bishal0922)
