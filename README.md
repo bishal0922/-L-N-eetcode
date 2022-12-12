@@ -7,4 +7,4 @@ I also solve other questions
 
 </br>
 
-[leetcode.com/bishal0922](leetcode.com/bishal0922)
+[leetcode.com/bishal0922](https://www.leetcode.com/bishal0922)
